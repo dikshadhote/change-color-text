@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+#app {
+  display: flex;
+  flex-direction: column;
+}
+#input-text,
+#btn-red,
+#btn-green,
+#btn-blue {
+  margin: 3px;
+}
